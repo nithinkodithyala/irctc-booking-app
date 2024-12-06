@@ -9,3 +9,8 @@ replace the
 npm i 
 cd src
 npm run dev 
+
+
+
+
+![image](https://github.com/user-attachments/assets/97254919-56a6-42d5-a532-2364f7af1a73)
